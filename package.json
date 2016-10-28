@@ -7,7 +7,7 @@
     "license": "Apache-2.0",
     "main": "src/index.js",
  "engines": {
-    "node": "3.10.9"
+    "node": "6.4.0"
   },
     "dependencies": {
         "quad-node": "^1.0.5",
