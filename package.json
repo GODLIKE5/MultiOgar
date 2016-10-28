@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "MultiOgar",
     "version": "1.2.69",
     "description": "Open source Ogar server",
@@ -6,6 +6,9 @@
     "homepage": "https://github.com/Barbosik/MultiOgar",
     "license": "Apache-2.0",
     "main": "src/index.js",
+ "engines": {
+    "node": "7.0.0"
+  },
     "dependencies": {
         "quad-node": "^1.0.5",
         "vector2-node": "latest",
