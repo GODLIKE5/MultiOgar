@@ -3,6 +3,6 @@ node_js:
   - "5.9.0"
 
 script:
-  install.bat
+  npm install
   cd src;
   node index.js
